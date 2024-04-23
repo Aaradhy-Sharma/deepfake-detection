@@ -1,4 +1,4 @@
-Sure, here's an elaborate README in Markdown format covering both methods (the deep learning model and the k-means clustering approach), along with the relevant research papers.
+
 
 # Deepfake Detection
 
