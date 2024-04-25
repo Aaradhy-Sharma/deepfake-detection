@@ -87,4 +87,12 @@ Contributions to this repository are welcome. If you encounter any issues or hav
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [BSD-3 CLAUSE](LICENSE).
+
+## Team 
+
+- Aaradhy Sharma 
+- Unnat Sharma
+- Dhruv Mishra
+- Suhani Singh
+- Nihar Puthin
